@@ -1,0 +1,7 @@
+{
+    "editor.trimAutoWhitespace": true,
+    "html.format.wrapAttributes": "force-aligned",
+    "html.format.contentUnformatted": "pre",
+    "html.autoClosingTags": true,
+    "editor.formatOnSave": true
+}
